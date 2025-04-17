@@ -30,6 +30,9 @@ profiles:
   - icon: at-symbol
     url: 'mailto:dingzhiyang2004@163.com'
     label: E-mail Me
+  - icon: wechat
+    url: "#wechat-modal"
+    label: My Wechat
 
 education:
   - area: Computer Science and Technology
@@ -84,7 +87,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: devicon/wechat
+        icon: wechat
       - name: RStudio
         description: ''
         percent: 100
