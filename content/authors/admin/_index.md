@@ -34,7 +34,7 @@ profiles:
 education:
   - area: Computer Science and Technology
     institution: Northwestern Polytechnical University
-    date_start: 2022-9-1
+    date_start: 2022-09-01
     date_end: ''
     summary: |
       Weighted Average Score: 92.06/100
