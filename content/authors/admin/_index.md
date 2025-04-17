@@ -84,15 +84,15 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: devicon/test
+        icon: devicon/wechat
       - name: RStudio
         description: ''
         percent: 100
-        icon: devicon/rstudio
+        icon: assets/media/icons/wechat
       - name: PyTorch
         description: ''
         percent: 40
-        icon: devicon/pytorch
+        icon: assets/media/icons/wechat.svg
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
