@@ -37,7 +37,7 @@ education:
     date_start: 2022-09-01
     date_end: ''
     summary: |
-      Weighted Average Score: 92.06/100
+      Weighted Average Score: 92.06
       Rank: 5/168 (top 3%)
 
       Courses included:
