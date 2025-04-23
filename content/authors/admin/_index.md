@@ -95,7 +95,7 @@ skills:
       - name: Calligraphy
         description: ''
         percent: 100
-        icon: 🖌️
+        icon: <link rel="icon" href="{{ "media/icons/wechat.svg" | relURL }}" type="image/svg+xml">
       - name: Badminton
         description: ''
         percent: 100
