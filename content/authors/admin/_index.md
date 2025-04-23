@@ -113,7 +113,7 @@ awards:
   - title: National Scholarship
     url: ''
     date: '2024-10-25'
-    awarder: Ministry of Education of the People's Republic of China
+    awarder: Ministry of Education of the People’s Republic of China
     # icon: 
     summary:
 ---
