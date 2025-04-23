@@ -99,7 +99,7 @@ skills:
       - name: Badminton
         description: ''
         percent: 100
-        icon: 🏸
+        icon: yumaoqiu
       - name: Drum
         description: ''
         percent: 80
