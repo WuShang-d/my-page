@@ -11,7 +11,7 @@ last_name: Ding
 
 # Status emoji
 status:
-  icon: at-symbol
+  # icon: at-symbol
 
 # Is this the primary user of the site?
 superuser: true
@@ -95,7 +95,7 @@ skills:
       - name: Calligraphy
         description: ''
         percent: 100
-        icon: <link rel="icon" href="{{ "media/icons/wechat.svg" | relURL }}" type="image/svg+xml">
+        icon: wechat
       - name: Badminton
         description: ''
         percent: 100
@@ -103,7 +103,7 @@ skills:
       - name: Drum
         description: ''
         percent: 80
-        icon: 🥁
+        icon: wechat
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -113,7 +113,7 @@ awards:
   - title: National Scholarship
     url: ''
     date: '2024-10-25'
-    awarder: Ministry of Education of the People’s Republic of China
+    awarder: Ministry of Education of the People's Republic of China
     # icon: 
     summary:
 ---
