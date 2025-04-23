@@ -1,17 +1,17 @@
 ---
 # Display name
-title: ZhiYang Ding
+title: Zhiyang Ding
 
 # Name pronunciation (optional)
 # name_pronunciation: ZhiYang Ding
 
 # Full name (for SEO)
-first_name: ZhiYang
+first_name: Zhiyang
 last_name: Ding
 
 # Status emoji
 status:
-  # icon: ☕️
+  # icon: at-symbol
 
 # Is this the primary user of the site?
 superuser: true
@@ -29,7 +29,7 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:dingzhiyang2004@163.com'
-    label: E-mail Me
+    label: E-mail Me with dingzhiyang2004@163.com
 
 education:
   - area: Computer Science and Technology
@@ -38,6 +38,7 @@ education:
     date_end: ''
     summary: |
       Weighted Average Score: 92.06
+
       Rank: 5/168 (top 3%)
 
       Courses included:
@@ -94,15 +95,15 @@ skills:
       - name: Calligraphy
         description: ''
         percent: 100
-        icon: 🖌️
+        icon: wechat
       - name: Badminton
         description: ''
         percent: 100
-        icon: 🏸
+        icon: yumaoqiu
       - name: Drum
         description: ''
         percent: 80
-        icon: 🥁
+        icon: wechat
 
 # Awards.
 #   Add/remove as many awards below as you like.
